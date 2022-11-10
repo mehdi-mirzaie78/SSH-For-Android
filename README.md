@@ -1,4 +1,4 @@
-## SSH Tunnel for Android os
+## SSH Tunnel for Android OS
 
 summary:
     In this tutorial you are going to learn how to use ssh tunel to make your own vpn.    
