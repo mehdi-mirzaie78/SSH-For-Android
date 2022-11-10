@@ -78,6 +78,6 @@ The Termux must do nothing else.
 Now you can run the proxy and enjoy the free internet.
 
 ---
-### Note:
-### Each time you want to use this first run the SSH on "Termux" then Start your "proxy"
+### Note: 
+    Each time you want to use this first run the SSH on "Termux" then Start your "proxy"
 
