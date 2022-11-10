@@ -55,26 +55,25 @@ The Termux must do nothing else.
 
 <br>
 
-1. Create new proxy in matsuri
+#### 1. Create new proxy in matsuri
    1. Touch on import
       1. Manual settings and set these configurations:
-         1. Choose SOCKS5 type
-         2. Set a name for your proxy
-         3. Server: 127.0.0.1
-         4. Remote port: 4002
-         5. Save the proxy
+         - Choose SOCKS5 type
+         - Set a name for your proxy
+         - Server: 127.0.0.1
+         - Remote port: 4002
+         - Save the proxy
 
 <br>
 
-2. Route Settings:
+#### 2. Route Settings:
    1. Touch on 3line at the left top corner of the app
-        1. Touch on Settings
+        1. Touch on "Settings"
            1. In settings bar find Route Settings section
-                1. Set "Apps VPN mode" On
-                2. Touch on it
-                    1. Set the option on "proxy"
-                    2. Choose each app you want to use ssh on it
-                    3. done
+                1. Set "Apps VPN mode" On & Touch on it:
+                    - Set the option on "proxy"
+                    - Choose each app you want to use ssh on it
+                    
 
 Now you can run the proxy and enjoy the free internet.
 
