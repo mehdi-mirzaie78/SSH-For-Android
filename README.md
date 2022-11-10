@@ -1,13 +1,17 @@
 ## SSH Tunnel for Android OS
 
-summary:
-    In this tutorial you are going to learn how to use ssh tunel to make your own vpn.    
----
+
+### Summary:
+In this tutorial you are going to learn how to use ssh tunel to make your own vpn.    
+
+<br>
 
 ### Requirements:
 
 1. termux
 2. matsuri
+
+<br>
 
 ### Step 1 - Creating new SSH
 Go to website [vpnjantit.com](https://vpanjantit.com)
@@ -20,6 +24,8 @@ Go to website [vpnjantit.com](https://vpanjantit.com)
 7. Click on Show IP from the right side of the page
 8. Copy the given IP.
 done
+
+<br>
 
 ### Step 2 - Install the Termux requirements
 Open Termux and run these commands:
@@ -43,8 +49,11 @@ After that, if termux wants to set fingerprint, type "yes" then you need to put 
 
 The Termux must do nothing else.
 
----
+<hr>
+
 ### Step 3 - Install the Matsuri proxy
+
+<br>
 
 1. Create new proxy in matsuri
    1. Touch on import
@@ -54,6 +63,8 @@ The Termux must do nothing else.
          3. Server: 127.0.0.1
          4. Remote port: 4002
          5. Save the proxy
+
+<br>
 
 2. Route Settings:
    1. Touch on 3line at the left top corner of the app
