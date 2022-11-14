@@ -9,8 +9,7 @@ In this tutorial you are going to learn how to use ssh tunel to make your own vp
 
 ### Requirements:
 
-1. termux
-2. matsuri
+1. matsuri - 🔗[Download](https://github.com/MatsuriDayo/Matsuri/releases/)
 
 <br>
 
@@ -28,41 +27,23 @@ done
 
 <br>
 
-### Step 2 - Install the Termux requirements
-Open Termux and run these commands:
-
-```text
-    pkg install dropbear
-```
-
-After installing dropbear install openssh
-
-```text
-    pkg install openssh
-```
-
-After installing openssh run this command to connect the SSH:
-
-```text
-    ssh -p 22 -N -D 4002 username-vpnjantit.com@IP
-```
-After that, if termux wants to set fingerprint, type "yes" then you need to put your "password":
-
-Termux must do nothing else.
-
 <hr>
 
-### Step 3 - Install the Matsuri proxy
+### Step 2 - Install the Matsuri proxy
 
 <br>
 
 #### 1. Create new proxy in matsuri
    1. Touch on "import"
       1. "Manual settings" and set these configurations:
-         - Choose "SOCKS5" type
+         - Choose "SSH" type
          - Set a name for your "profile name"
-         - Server: 127.0.0.1
-         - Remote port: 4002
+         - Server: "IP taken from vpnjantit on step 1"
+         - Remote port: 22
+         - Username : 'username-vpnjantit.com'
+         - Authentication Type: Password
+         - Password : 'your vpnjantit password'
+         - Public Ket : Not set
          - Save the proxy
 
 <br>
@@ -80,5 +61,5 @@ Now you can run the proxy and enjoy the free internet.
 
 ---
 ### Note: 
-    Each time you want to use this first run the SSH on "Termux" then Start your "proxy"
+    Each time you want to use this first start your "proxy" in matsuri
 
