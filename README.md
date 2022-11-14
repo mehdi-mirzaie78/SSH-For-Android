@@ -9,8 +9,8 @@ In this tutorial you are going to learn how to use ssh tunel to make your own vp
 
 ### Requirements:
 
-1. termux
-2. matsuri
+1. [termux](https://www.farsroid.com/termux/)
+2. [matsuri](https://github.com/Matsuridayo/Matsuri/releases)
 
 <br>
 
