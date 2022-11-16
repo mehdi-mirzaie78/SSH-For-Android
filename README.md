@@ -14,7 +14,7 @@ In this tutorial you are going to learn how to use ssh tunel to make your own vp
 <br>
 
 ### Step 1 - Creating new SSH
-Go to website [vpnjantit.com](https://vpanjantit.com)
+Go to website [vpnjantit.com](https://vpnjantit.com)
 1. Click on Free VPN SSH
 2. Create Free SSH Tunnel
 3. Choose a Country (France & Italy suggested)
