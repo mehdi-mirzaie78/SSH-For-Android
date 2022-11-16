@@ -26,7 +26,6 @@ Go to website [vpnjantit.com](https://vpnjantit.com)
 done
 
 We also put SSH in this <a href="https://t.me/onlysshproxy">Telegram Channel</a>
-
 <br>
 
 <hr>
