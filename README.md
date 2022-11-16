@@ -25,6 +25,8 @@ Go to website [vpnjantit.com](https://vpanjantit.com)
 8. Copy the given IP.
 done
 
+We also put SSH in this Telegram Channel
+
 <br>
 
 <hr>
