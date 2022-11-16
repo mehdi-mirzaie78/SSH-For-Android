@@ -25,6 +25,7 @@ Go to website [vpnjantit.com](https://vpnjantit.com)
 8. Copy the given IP.
 done
 
+We also put SSH in this <a href="https://t.me/onlysshproxy">Telegram Channel</a>
 <br>
 
 <hr>
