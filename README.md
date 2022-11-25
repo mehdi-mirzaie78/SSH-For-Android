@@ -63,5 +63,7 @@ Now you can run the proxy and enjoy the free internet.
 ---
 ### Note: 
     Each time you want to use this first start your "proxy" in matsuri
+<div align=center>
 
 https://user-images.githubusercontent.com/108929710/201670051-8f2b4fdc-ce56-4746-a76b-017459581af0.mp4
+</div>
