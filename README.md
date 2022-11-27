@@ -17,7 +17,7 @@ In this tutorial you are going to learn how to use ssh tunel to make your own vp
 Go to website [vpnjantit.com](https://vpnjantit.com)
 1. Click on Free VPN SSH
 2. Create Free SSH Tunnel
-3. Choose a Country (France & Italy suggested)
+3. Choose a Country (France & Italy & USA suggested)
 4. Set username and password (set both the same)
 5. Check the checkbox of "I'm not a robot"
 6. Click on "Create Free SSH Tunnel"
@@ -63,6 +63,8 @@ Now you can run the proxy and enjoy the free internet.
 ---
 ### Note: 
     Each time you want to use this first start your "proxy" in matsuri
+    Since we get free ssh from vpnjantit.com it's limmited to a couple of day,
+    So you need to create new one before the current one expires.
 <div align=center>
 
 https://user-images.githubusercontent.com/108929710/201670051-8f2b4fdc-ce56-4746-a76b-017459581af0.mp4
